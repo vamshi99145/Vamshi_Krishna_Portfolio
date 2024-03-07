@@ -1,5 +1,5 @@
 # Attractive Portfolio Website
-## _Chatting Bot Like (Whatsapp  interface)_
+## Chatting Bot Like (Whatsapp interface)_
 
 
 - [Running Site](https://vamshi99145.github.io/Vamshi_Krishna_Portfolio/)
@@ -12,10 +12,9 @@
 - Javascript
 - CSS
 
-## Features
+## How to use?
+Just type "ask" and it will give you the commands to know all the details about me
 
-- Whatsapp like interface
-- Pleasant sounds
-- Lightweighted
-- Social media links
+
+
 
