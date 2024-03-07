@@ -1,10 +1,10 @@
-# Attractive Portfolio Website
-## Chatting Bot Like (Whatsapp interface)_
+# Attractive Advance Portfolio Website
+## _Chatting Bot Like Design (Whatsapp like interface)_
 
 
-- [Running Site](https://vamshi99145.github.io/Vamshi_Krishna_Portfolio/)
+- [Running Site](https://vinayak-09.github.io/)
 
-
+[![N|Solid](images/demo.gif)](https://vinayak-09.github.io/)
 
 ## Technologies Used
 
@@ -12,9 +12,28 @@
 - Javascript
 - CSS
 
-## How to use?
-Just type "ask" and it will give you the commands to know all the details about me
+## Features
+
+- Whatsapp like interface
+- Pleasant sounds
+- Lightweighted
+- Social media links
+- Download resume.
+- Map support for address
+- Random replies for hi, bye, i love you.
+
+<br><br>
+
+## Connect with Me: 
+
+<br>
+
+[![N|Solid](images/telegram.svg)](https://t.me/vinayak_09)
 
 
+[![N|Solid](images/instagram.svg)](https://instagram.com/vinayak_patil_09)
 
 
+<br>
+
+**Free Software, Hell Yeah!**
