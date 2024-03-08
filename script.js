@@ -39,7 +39,6 @@ function isEnter(event) {
         sendMsg();
     }
 }
-
 function sendMsg() {
     var input = document.getElementById("inputMSG");
     var ti = input.value;
@@ -51,7 +50,9 @@ function sendMsg() {
     var myDiv = document.createElement("div");
     var greendiv = document.createElement("div");
     var dateLabel = document.createElement("label");
-    dateLabel.innerText = date.getHours() + ":" + date.getMinutes();
+    var hours = date.getHours();
+    var minutes = date.getMinutes().toString().padStart(2, '0'); // Adding leading zero if necessary
+    dateLabel.innerText = hours + ":" + minutes;
     myDiv.setAttribute("class", "sent");
     greendiv.setAttribute("class", "green");
     dateLabel.setAttribute("class", "dateLabel");
